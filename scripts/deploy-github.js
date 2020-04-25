@@ -5,7 +5,7 @@ ghpages.publish(
     'public',
     {
         branch: 'master',
-        repo: 'https://github.com/akshaykhanna/gatsby-site',
+        repo: 'https://github.com/akshaykhanna/gatsby-website-demo',
     },
     () => {
         console.log('Deploy Complete!')
